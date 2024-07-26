@@ -1,0 +1,35 @@
+# Ignorar todos os diretórios acima do nível atual
+../*
+
+# Ignorar arquivos específicos que não devem ser versionados
+.bash_history
+.cache/
+.dbclient/
+.dotnet/
+.gitconfig
+.gitignore
+.jdks/
+.lesshst
+.librarymanager/
+.m2/
+.node_repl_history
+.ssh/
+.vscode/
+.yarnrc
+3D Objects/
+AppData/
+Contacts/
+Creative Cloud Files/
+Desktop/
+Documents/
+Favorites/
+IdeaProjects/
+Links/
+Microsoft/
+Music/
+NTUSER.DAT
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
