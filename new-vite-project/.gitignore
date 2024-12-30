@@ -1,0 +1,3 @@
+# Ignorar arquivos de cache e configurações do sistema
+AppData/
+.vscode/
