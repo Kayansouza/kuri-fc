@@ -5,7 +5,7 @@ Faz parte do portfólio do projeto **KuriFutebol**.
 
 ## Tecnologias utilizadas
 
-- Java 17 ou 19
+- Java 17 
 - Spring Boot
 - JPA / Hibernate
 - PostgreSQL (futuramente)
